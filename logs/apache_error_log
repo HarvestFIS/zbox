@@ -1,0 +1,19 @@
+[Thu Jul 05 09:11:40.906991 2018] [ssl:warn] [pid 26863:tid 140119172306688] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 05 09:11:40.914320 2018] [mpm_event:notice] [pid 26863:tid 140119172306688] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.1 configured -- resuming normal operations
+[Thu Jul 05 09:11:40.914348 2018] [core:notice] [pid 26863:tid 140119172306688] AH00094: Command line: '/opt/zbox/run/apache/httpd'
+[Thu Jul 05 09:20:27.871695 2018] [core:warn] [pid 26863:tid 140119172306688] AH00045: child process 26864 still did not exit, sending a SIGTERM
+[Thu Jul 05 09:20:29.873893 2018] [core:warn] [pid 26863:tid 140119172306688] AH00045: child process 26864 still did not exit, sending a SIGTERM
+[Thu Jul 05 09:20:31.876098 2018] [core:warn] [pid 26863:tid 140119172306688] AH00045: child process 26864 still did not exit, sending a SIGTERM
+[Thu Jul 05 09:20:33.878298 2018] [core:error] [pid 26863:tid 140119172306688] AH00046: child process 26864 still did not exit, sending a SIGKILL
+[Thu Jul 05 09:20:34.879581 2018] [mpm_event:notice] [pid 26863:tid 140119172306688] AH00491: caught SIGTERM, shutting down
+[Thu Jul 05 09:27:58.555433 2018] [ssl:warn] [pid 27266:tid 139674516195072] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 05 09:27:58.563443 2018] [mpm_event:notice] [pid 27266:tid 139674516195072] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.1 configured -- resuming normal operations
+[Thu Jul 05 09:27:58.563480 2018] [core:notice] [pid 27266:tid 139674516195072] AH00094: Command line: '/opt/zbox/run/apache/httpd'
+[Thu Jul 05 09:39:05.285725 2018] [core:warn] [pid 27266:tid 139674516195072] AH00045: child process 27270 still did not exit, sending a SIGTERM
+[Thu Jul 05 09:39:07.287917 2018] [core:warn] [pid 27266:tid 139674516195072] AH00045: child process 27270 still did not exit, sending a SIGTERM
+[Thu Jul 05 09:39:09.290095 2018] [core:warn] [pid 27266:tid 139674516195072] AH00045: child process 27270 still did not exit, sending a SIGTERM
+[Thu Jul 05 09:39:11.292283 2018] [core:error] [pid 27266:tid 139674516195072] AH00046: child process 27270 still did not exit, sending a SIGKILL
+[Thu Jul 05 09:39:12.293550 2018] [mpm_event:notice] [pid 27266:tid 139674516195072] AH00491: caught SIGTERM, shutting down
+[Thu Jul 05 09:43:21.267835 2018] [ssl:warn] [pid 27670:tid 139657287390976] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 05 09:43:21.275509 2018] [mpm_event:notice] [pid 27670:tid 139657287390976] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.1 configured -- resuming normal operations
+[Thu Jul 05 09:43:21.275548 2018] [core:notice] [pid 27670:tid 139657287390976] AH00094: Command line: '/opt/zbox/run/apache/httpd'

@@ -1,0 +1,75 @@
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: Compressed tables use zlib 1.2.3.4
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: Using SSE crc32 instructions
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB: Waiting for purge to start
+2018-07-05  9:11:43 140627923199808 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.35-80.0 started; log sequence number 1600869
+2018-07-05  9:11:43 140627341727488 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-07-05  9:11:43 140627923199808 [Note] Plugin 'FEEDBACK' is disabled.
+2018-07-05  9:11:43 140627923199808 [Note] Server socket created on IP: '127.0.0.1'.
+2018-07-05  9:11:43 140627921635072 [Warning] InnoDB: Cannot open table mysql/gtid_slave_pos from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-07-05  9:11:43 140627921635072 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2018-07-05  9:11:43 140627923199808 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.1.22-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+2018-07-05  9:20:26 140627835082496 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+2018-07-05  9:20:26 140627835082496 [Note] Event Scheduler: Purging the queue. 0 events
+2018-07-05  9:20:26 140627320747776 [Note] InnoDB: FTS optimize thread exiting.
+2018-07-05  9:20:26 140627835082496 [Note] InnoDB: Starting shutdown...
+2018-07-05  9:20:26 140627835082496 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-07-05  9:20:28 140627835082496 [Note] InnoDB: Shutdown completed; log sequence number 1600879
+2018-07-05  9:20:28 140627835082496 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: Compressed tables use zlib 1.2.3.4
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: Using SSE crc32 instructions
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB: Waiting for purge to start
+2018-07-05  9:28:00 140383460771648 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.35-80.0 started; log sequence number 1600879
+2018-07-05  9:28:01 140382972360448 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-07-05  9:28:01 140383460771648 [Note] Plugin 'FEEDBACK' is disabled.
+2018-07-05  9:28:01 140383460771648 [Note] Server socket created on IP: '127.0.0.1'.
+2018-07-05  9:28:01 140382488012544 [Warning] InnoDB: Cannot open table mysql/gtid_slave_pos from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-07-05  9:28:01 140382488012544 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2018-07-05  9:28:01 140383460771648 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.1.22-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+2018-07-05  9:39:03 140383357089536 [Note] /opt/zbox/run/mysql/mysqld: Normal shutdown
+
+2018-07-05  9:39:03 140383357089536 [Note] Event Scheduler: Purging the queue. 0 events
+2018-07-05  9:39:03 140382859122432 [Note] InnoDB: FTS optimize thread exiting.
+2018-07-05  9:39:03 140383357089536 [Note] InnoDB: Starting shutdown...
+2018-07-05  9:39:04 140383357089536 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-07-05  9:39:05 140383357089536 [Note] InnoDB: Shutdown completed; log sequence number 1600889
+2018-07-05  9:39:05 140383357089536 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: Compressed tables use zlib 1.2.3.4
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: Using SSE crc32 instructions
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB: Waiting for purge to start
+2018-07-05  9:43:23 139801059161920 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.35-80.0 started; log sequence number 1600889
+2018-07-05  9:43:23 139800566605568 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-07-05  9:43:23 139801059161920 [Note] Plugin 'FEEDBACK' is disabled.
+2018-07-05  9:43:23 139801059161920 [Note] Server socket created on IP: '127.0.0.1'.
+2018-07-05  9:43:23 139800985593600 [Warning] InnoDB: Cannot open table mysql/gtid_slave_pos from the internal data dictionary of InnoDB though the .frm file for the table exists. See http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html for how you can resolve the problem.
+2018-07-05  9:43:23 139800985593600 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2018-07-05  9:43:23 139801059161920 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.1.22-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
